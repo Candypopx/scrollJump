@@ -1,3 +1,4 @@
+from pynput import mouse, keyboard
 
 # Global variable to keep track of the current scroll position
 current_scroll_position = 0
